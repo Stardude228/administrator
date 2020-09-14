@@ -1,0 +1,4 @@
+export const ADD_NEW_CONTACT = "ADD_NEW_CONTACT";
+export const GET_CONTACTS = "GET_CONTACTS";
+export const DELETE_CONTACT = "DELETE_CONTACT";
+export const SAVE_CONTACT = "SAVE_CONTACT"
